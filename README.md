@@ -1,4 +1,4 @@
-Core stack: JS, TS, Go
+Core stack: JS, TS, GO
 
 ### Skills
 
